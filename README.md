@@ -29,5 +29,5 @@ flutter doctor
 ```
 <p align="center" >
    <img src="https://github.com/jason11501/Flutter/blob/main/Screen%20Shot%202022-07-24%20at%2010.56.48.png" ><br>
-   Then choose Simulator
+   Run without debugging. Then choose Simulator
 </p>
