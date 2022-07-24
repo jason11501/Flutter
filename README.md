@@ -27,3 +27,7 @@ Run:
 ```
 flutter doctor
 ```
+<p align="center" >
+   <img src="" ><br>
+   Then choose Simulator
+</p>
